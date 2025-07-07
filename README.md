@@ -16,7 +16,7 @@ Projede iki ana veri seti kullanılmıştır:
 
 ### 2.1. UK Trafik Kazaları Veri Seti (Accidents)
 
-* **Kaynak:** [Birleşik Krallık Karayolları İstatistikleri](https://www.gov.uk/government/statistics/road-accidents-and-safety-statistics) (Genellikle DfT - Department for Transport tarafından yayınlanır.)
+* **Kaynak:** [Birleşik Krallık Karayolları İstatistikleri](https://www.gov.uk/government/statistics/road-accidents-and-safety-statistics) 
 * **İçerik:** 2005-2014 yılları arasındaki trafik kazalarına ilişkin detaylı bilgiler. Her satır tek bir kazayı temsil eder.
 * **Önemli Sütunlar:**
     * `Accident_Index`: Kaza indeksi (Benzersiz ID)
@@ -36,7 +36,7 @@ Projede iki ana veri seti kullanılmıştır:
 
 ### 2.2. UK Yıllık Ortalama Günlük Trafik Akışı Veri Seti (AADF - Annual Average Daily Flow)
 
-* **Kaynak:** [Birleşik Krallık Karayolları İstatistikleri](https://www.gov.uk/government/statistics/road-traffic-statistics) (DfT)
+* **Kaynak:** [Birleşik Krallık Karayolları İstatistikleri](https://www.gov.uk/government/statistics/road-traffic-statistics) 
 * **İçerik:** Birleşik Krallık'taki belirli kontrol noktalarından geçen araç sayılarının yıllık ortalama günlük akışları (AADF).
 * **Önemli Sütunlar:**
     * `AADFYear`: Trafik akışı verisinin toplandığı yıl
